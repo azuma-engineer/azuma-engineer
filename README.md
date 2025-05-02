@@ -15,7 +15,7 @@ I’m an engineer building **structure-driven embedded systems**
 Thoughts on systems, logic, and engineering from a structural perspective.
 
 📘 **SNS**  
-- 🐦 Twitter (X): [https://twitter.com/azuma_structure](https://x.com/azuma_engineer)
+🐦 Twitter (X): [https://x.com/azuma_engineer](https://x.com/azuma_engineer)
 
 📫 **Contact**  
 azuma.engineer@outlook.com
