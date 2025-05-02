@@ -14,6 +14,9 @@ I’m an engineer building **structure-driven embedded systems**
 [azuma-aria.hatenablog.com](https://azuma-aria.hatenablog.com)  
 Thoughts on systems, logic, and engineering from a structural perspective.
 
+📘 **SNS**  
+- 🐦 Twitter (X): https://twitter.com/azuma_structure
+
 📫 **Contact**  
 azuma.engineer@outlook.com
 
