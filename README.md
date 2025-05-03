@@ -10,8 +10,8 @@ I’m an engineer building **structure-driven embedded systems**
 - Logic-focused system design & structural theory (構造論)
 - Exploring IoT edge systems and smart factory visualization as future areas of development
 
-📘 **Blog**  
-[azuma-aria.hatenablog.com](https://azuma-aria.hatenablog.com)  
+📘 **Blog** 
+[azuma-aria.hatenablog.com](https://azuma-aria.hatenablog.com/)  
 Thoughts on systems, logic, and engineering from a structural perspective.
 
 📘 **SNS**  
