@@ -1,26 +1,40 @@
 # 👋 Hi, I’m Azuma
 
-I’m an engineer building **structure-driven embedded systems**  
-– from electrical design and PLC logic to STM32 control, UI/UX, and system philosophy.
+I’m an electrical engineer working across **industrial automation, embedded systems, and hardware development** — from electrical design and PLC/HMI programming to custom PCBs, microcontrollers, and AI-assisted software development.
 
-🔧 **What I work with**
-- Industrial control: PLC (Mitsubishi / Keyence)
-- Embedded systems: STM32, ESP32, Arduino; structured UI design with TFT displays
-- Human-machine interfaces: Industrial GOT (Mitsubishi / Keyence), custom UI
-- Logic-focused system design & structural theory (構造論)
-- Exploring IoT edge systems and smart factory visualization as future areas of development
+## 🔧 What I work with
 
-📘 **Blog** 
-[azuma-aria.hatenablog.com](https://azuma-aria.hatenablog.com/)  
-Thoughts on systems, logic, and engineering from a structural perspective.
+* **Industrial automation:** Electrical design, PLC/HMI, servo systems, inverters, sensors, and machine control
+* **PLC / HMI:** Mitsubishi, Keyence, Omron
+* **Functional safety:** Safety-related control systems for industrial machinery
+* **Embedded systems:** RP2350, STM32, ESP32
+* **PCB design:** KiCad, custom circuit design, and multilayer PCB development
+* **HMI & visualization:** Industrial GOT, embedded displays, and custom user interfaces
+* **FPGA:** AMD/Xilinx Vivado
+* **Software:** Embedded programming and AI-assisted web application development
 
-📘 **SNS**  
-🐦 Twitter (X): [https://x.com/azuma_engineer](https://x.com/azuma_engineer)
+## 🧪 Personal Projects
 
-📫 **Contact**  
-azuma.engineer@outlook.com
+Outside of industrial machinery design, I work on personal hardware and software projects such as:
 
-🧭 **Current Focus**
-- Exploring philosophy-driven system design  
-- Visualizing IoT data with embedded UI  
-- Publishing structural insights through ARIA blog
+* Custom microcontroller boards
+* Measurement and monitoring devices
+* Embedded HMI systems
+* FPGA experiments
+* PCB design and electronics prototyping
+* Engineering support web applications
+
+## 📘 Blog
+
+**Aphocrypha**
+https://aphocrypha.com/
+
+Electronics, embedded systems, FPGA development, engineering, and technical experiments.
+
+## 🐦 SNS
+
+X: https://x.com/azuma_engineer
+
+## 📫 Contact
+
+[azuma.engineer@outlook.com](mailto:azuma.engineer@outlook.com)
